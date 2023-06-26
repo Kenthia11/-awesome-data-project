@@ -9,7 +9,8 @@ Howard University
 Three FUN DATA RELATED Ideas:
 
 1. **Workforce Refugee Placement in the United States**
-
-
 2. Education Inequity and Its Impact on Students
 3. Reduce accident rates and streamline traffic
+4. Accessibility to affordable housing
+
+
