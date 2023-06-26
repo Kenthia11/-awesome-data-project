@@ -8,7 +8,7 @@ Howard University
 
 <h1>Three FUN DATA RELATED Ideas<h1> :
 
-1. <strong>Workforce Refugee Placement in the United States</strong>
+1. **Workforce Refugee Placement in the United States**
 
 
 2. Education Inequity and Its Impact on Students
