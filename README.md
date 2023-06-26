@@ -1,5 +1,5 @@
 # -awesome-data-project
-I'm created this awesome new repository for an awesome data project!
+I created this awesome new repository for an awesome data project!
 
 
 Kenthia Roberts 
